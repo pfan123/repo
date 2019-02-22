@@ -18,3 +18,5 @@
   - PULLREQUESTTEMPLATE.md 
 
 
+`注意：` package.json中dependencies、devDependencies 的区别：dependencies 表示我们要在生产环境下使用该依赖，devDependencies 则表示我们仅在开发环境使用该依赖
+
